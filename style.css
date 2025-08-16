@@ -1,0 +1,266 @@
+.ozonlab{
+    height: 150px;
+    width: 100%;
+    background-color: #f5f7fa;
+    border-radius: 27px;  
+}
+ 
+.imgoz{
+    height: 160px;
+    width: 310px;
+    margin-right: 100%;
+    margin-top: -45px;
+}
+
+.vb290-a0b290-b5{
+    background-color: #005bff;
+    color: #fff;
+    border: none;
+    width: 120px;
+    border-radius: 7px;
+    margin-left: 20%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin-top: 20px;
+
+}
+
+.inpu{
+    border:2px solid #005bff;
+    margin-top: 13px;
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    width: 480px;
+    margin-left: 30%;
+    height: 34px;
+    border-radius: 7px;
+}
+
+.butt2{
+    background-color: #005bff;
+    border:none;
+    border-radius: 7px;
+    height: 36px;
+    width: 64px;
+    margin-top: 13px;
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    margin-left: 66%;
+}
+
+.imgb{
+    height: 34px;
+    width: 64;
+}
+
+.p1{
+    position: absolute;
+    top: 75px;
+    left: 10px;
+    margin-left: 8%;
+}
+
+.p2{    
+    position: absolute;
+    top: 75px;
+    left: 10px;
+    margin-left: 16%;}
+
+.p3{
+    position: absolute;
+    top: 75px;
+    left: 10px;
+    margin-left: 26%;
+}
+
+.p4{    
+    position: absolute;
+    top: 75px;
+    left: 10px;
+    margin-left: 36%;}
+
+.p5{
+    position: absolute;
+    top: 75px;
+    left: 10px;
+    margin-left: 46%;
+}
+
+.p6{
+    position: absolute;
+    top: 75px;
+    left: 10px;
+    margin-left: 56%;
+}
+
+.p7{
+    position: absolute;
+    top: 75px;
+    left: 10px;
+    margin-left: 66%;
+}
+
+.p8{
+    position: absolute;
+    top: 75px;
+    left: 10px;
+    margin-left: 76%;
+}
+
+.user{
+    width: 430px;
+    height: 45px;
+    position: absolute;
+    top: 23px;
+    left: 10px;
+    margin-left: 74%;
+}
+
+.p9{
+    position: absolute;
+    top: 6px;
+    left: 10px;
+    margin-left: 0%; 
+}
+
+.p10{
+    position: absolute;
+    top: 6px;
+    left: 10px;
+    margin-left: 14%;  
+}
+
+.p11{
+    position: absolute;
+    top: 6px;
+    left: 10px;
+    margin-left: 30%; 
+}
+
+.p12{
+    position: absolute;
+    top: 6px;
+    left: 10px;
+    margin-left: 55%;
+}
+
+.imgz{
+    position: absolute;
+    top: 84px;
+    left: 10px;
+    margin-left: 6%;
+    height: 30px;
+    width: 30px;
+}
+.imgz2{
+    position: absolute;
+    top: 84px;
+    left: 10px;
+    margin-left: 14%;
+    height: 30px;
+    width: 30px; 
+}
+
+.imgz3{
+    position: absolute;
+    top: -0px;
+    margin-top: 1px;
+    left: 10px;
+    margin-left: 0%;
+    height: 30px;
+    width: 30px; 
+}
+
+.imgz4{
+    position: absolute;
+    top: -0px;
+    margin-top: 1px;
+    left: 10px;
+    margin-left: 14%;
+    height: 25px;
+    width: 35px; 
+}
+
+.imgz5{
+    position: absolute;
+    top: -0px;
+    margin-top: 1px;
+    left: 10px;
+    margin-left: 34%;
+    height: 25px;
+    width: 30px; 
+}
+
+.imgz6{
+    position: absolute;
+    top: -0px;
+    margin-top: 1px;
+    left: 10px;
+    margin-left: 57%;
+    height: 25px;
+    width: 30px; 
+}
+
+.imgf1{
+    width: 100%;
+    border-radius: 20px;
+    margin-top: 13px;
+}
+
+.imgf2{
+    width: 100%;
+    border-radius: 20px;
+    margin-top: 13px;
+    height: 180px;
+}
+
+.ozonlab2{
+    height: 400px;
+    width: 100%;
+    background-color: #f5f7fa;
+    border-radius: 27px; 
+    margin-top: 13px;  
+}
+
+.imgf3{
+    height: 200px;
+    border-radius: 15px;
+    margin-right: 1%;
+}
+
+.imgf4{
+    height: 200px;
+    border-radius: 15px;
+    margin-right: 1%;
+}
+
+.imgf5{
+    height: 200px;
+    border-radius: 15px;
+    margin-right: 2%;
+}
+
+.imgf6{
+    width: 200px;
+    border-radius: 15px;
+    margin-right: 1%;
+}
+
+.imgf7{
+    width: 200px;
+    border-radius: 15px;
+    margin-right: 1%;
+}
+
+.imgf8{
+    width: 200px;
+    border-radius: 15px;
+}
+
+.imgd1{
+    width: 100%;
+    border-radius: 27px;
+}
